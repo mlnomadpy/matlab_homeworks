@@ -14,3 +14,8 @@ c = %circumference
 fprintf('The radius of our circle is %f \n', r)
 fprintf('area is %f \n', a)
 fprintf('circumference is %f \n', c)
+
+% Execute these in terminal
+% git add assignment_1/exo1.m
+% git commit -m 'finished exo1'
+% git push origin main
